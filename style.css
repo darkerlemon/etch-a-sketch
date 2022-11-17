@@ -20,7 +20,9 @@ body {
   align-items: flex-start;    
 }
 
-.boxes {
-    
-    border: 1px solid rgb(157, 145, 145);
+.button {
+height: fit-content;
+width: fit-content;
+margin: 15px;
 }
+
